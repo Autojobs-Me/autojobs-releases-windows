@@ -25,12 +25,7 @@ All releases are cryptographically signed and verified before installation. The 
 
 ## 🐛 Issues
 
-For bug reports and feature requests, please visit the [main repository](https://github.com/Autojobs-Me/autojobs-desktop/issues).
-
-## 📖 Documentation
-
-- [Main Repository](https://github.com/Autojobs-Me/autojobs-desktop)
-- [User Guide](https://docs.autojobs.me)
+For bug reports and feature requests, please visit open them under the issues section here.
 
 ---
 
